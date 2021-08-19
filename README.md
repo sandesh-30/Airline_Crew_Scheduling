@@ -24,4 +24,4 @@ I have :
 • Implemented Multilabel Shortest Path Algorithm to obtain feasible solutions from coloumn generation
 
 ### To know more details 
-Read asirzadeh et al. (2017). and our [report](https://github.com/sandesh-30/Airline_Crew_Scheduling/blob/main/Air_line_Scheduling.pdf")
+Read asirzadeh et al. (2017). and our [report](https://github.com/sandesh-30/Airline_Crew_Scheduling/blob/main/Air_line_Scheduling.pdf)
